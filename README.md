@@ -1,4 +1,5 @@
 # Tutorial
-Working with R programming language.
 
-Initial steps are executed to understand the datasets
+# Working with R programming language.
+# Open the R file in Rstudio
+# Initial steps are executed to better understand the datasets
